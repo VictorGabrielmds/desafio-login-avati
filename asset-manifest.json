@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/desafio-login-avati/static/css/main.ca0a8704.css",
-    "main.js": "/desafio-login-avati/static/js/main.4719b093.js",
+    "main.css": "/desafio-login-avati/static/css/main.2caac58c.css",
+    "main.js": "/desafio-login-avati/static/js/main.10f6ff29.js",
     "static/js/563.5dae5da4.chunk.js": "/desafio-login-avati/static/js/563.5dae5da4.chunk.js",
+    "static/media/bg-tectudao.png": "/desafio-login-avati/static/media/bg-tectudao.ab282011d9ec2bc26eb2.png",
     "static/media/GOLDPLAY-BOLD.TTF": "/desafio-login-avati/static/media/GOLDPLAY-BOLD.c4107a2a03ee31d3dda4.TTF",
     "static/media/GOLDPLAY-BLACK.TTF": "/desafio-login-avati/static/media/GOLDPLAY-BLACK.53789a34830a749bec29.TTF",
     "static/media/GOLDPLAY-SEMIBOLD.TTF": "/desafio-login-avati/static/media/GOLDPLAY-SEMIBOLD.b1abfc1b6ee931e45ae5.TTF",
@@ -11,12 +12,12 @@
     "static/media/GOLDPLAY-REGULAR.TTF": "/desafio-login-avati/static/media/GOLDPLAY-REGULAR.7b61b804f788bc7d05c6.TTF",
     "static/media/GOLDPLAY-THIN.TTF": "/desafio-login-avati/static/media/GOLDPLAY-THIN.440edef5646e9c395343.TTF",
     "index.html": "/desafio-login-avati/index.html",
-    "main.ca0a8704.css.map": "/desafio-login-avati/static/css/main.ca0a8704.css.map",
-    "main.4719b093.js.map": "/desafio-login-avati/static/js/main.4719b093.js.map",
+    "main.2caac58c.css.map": "/desafio-login-avati/static/css/main.2caac58c.css.map",
+    "main.10f6ff29.js.map": "/desafio-login-avati/static/js/main.10f6ff29.js.map",
     "563.5dae5da4.chunk.js.map": "/desafio-login-avati/static/js/563.5dae5da4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca0a8704.css",
-    "static/js/main.4719b093.js"
+    "static/css/main.2caac58c.css",
+    "static/js/main.10f6ff29.js"
   ]
 }
