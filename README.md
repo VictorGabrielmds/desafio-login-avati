@@ -22,4 +22,4 @@ Projeto criado como parte do processo seletivo AVATI.
    npm start
 
 ## Link para demonstração
-[Veja aqui](https://VictorGabrielmds.github.io/desafio-login-avati)
+[Veja aqui](https://victorgabrielmds.github.io/desafio-login-avati/)
