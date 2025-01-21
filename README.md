@@ -23,6 +23,3 @@ Projeto criado como parte do processo seletivo AVATI.
 
 ## Link para demonstração
 [Veja aqui](https://VictorGabrielmds.github.io/desafio-login-avati)
-
-## Autor
-[Victor Gabriel](https://github.com/VictorGabrielmds)
