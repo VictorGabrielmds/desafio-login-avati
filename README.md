@@ -7,7 +7,7 @@ Projeto criado como parte do processo seletivo AVATI.
 - HTML/CSS
 
 ## Funcionalidades
-- Validação de campos de e-mail e senha.
+- O sistema verifica e-mails e senhas em um banco de dados fictício. 
 - Mensagens de sucesso ou erro.
 - Responsividade.
 
