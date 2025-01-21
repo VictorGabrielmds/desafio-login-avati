@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/login-react-avati/static/css/main.5a5bf278.css",
-    "main.js": "/login-react-avati/static/js/main.50394bbd.js",
-    "static/js/563.5dae5da4.chunk.js": "/login-react-avati/static/js/563.5dae5da4.chunk.js",
-    "index.html": "/login-react-avati/index.html",
-    "main.5a5bf278.css.map": "/login-react-avati/static/css/main.5a5bf278.css.map",
-    "main.50394bbd.js.map": "/login-react-avati/static/js/main.50394bbd.js.map",
-    "563.5dae5da4.chunk.js.map": "/login-react-avati/static/js/563.5dae5da4.chunk.js.map"
+    "main.css": "/desafio-login-avati/static/css/main.5a5bf278.css",
+    "main.js": "/desafio-login-avati/static/js/main.9d3c68bb.js",
+    "static/js/563.5dae5da4.chunk.js": "/desafio-login-avati/static/js/563.5dae5da4.chunk.js",
+    "index.html": "/desafio-login-avati/index.html",
+    "main.5a5bf278.css.map": "/desafio-login-avati/static/css/main.5a5bf278.css.map",
+    "main.9d3c68bb.js.map": "/desafio-login-avati/static/js/main.9d3c68bb.js.map",
+    "563.5dae5da4.chunk.js.map": "/desafio-login-avati/static/js/563.5dae5da4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a5bf278.css",
-    "static/js/main.50394bbd.js"
+    "static/js/main.9d3c68bb.js"
   ]
 }
